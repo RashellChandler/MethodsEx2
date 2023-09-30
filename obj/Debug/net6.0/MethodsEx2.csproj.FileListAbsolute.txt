@@ -1,0 +1,15 @@
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\bin\Debug\net6.0\MethodsEx2.exe
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\bin\Debug\net6.0\MethodsEx2.deps.json
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\bin\Debug\net6.0\MethodsEx2.runtimeconfig.json
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\bin\Debug\net6.0\MethodsEx2.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\bin\Debug\net6.0\MethodsEx2.pdb
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.csproj.AssemblyReference.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.AssemblyInfoInputs.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.AssemblyInfo.cs
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.csproj.CoreCompileInputs.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\refint\MethodsEx2.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.pdb
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\MethodsEx2.genruntimeconfig.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\MethodsEx2\obj\Debug\net6.0\ref\MethodsEx2.dll
